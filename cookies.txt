@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.themerec.com	TRUE	/item/wordpress/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.themerec.com	TRUE	/item/wordpress/	FALSE	1999999999	wp_woocommerce_session_a9adafec0ba1a732f87522e08912e9f9	t_ebb0a7739857748e7059d89fe00e62%7C1763352876%7C1763266476%7C%24generic%248nQAjVIsqvRh2CtSBRI53YWbUVsJC22im7x2s-9Y
+demo.themerec.com	TRUE	/item/wordpress/	FALSE	1999999999	woocommerce_cart_hash	7add84692ef8a664f26d1a080dc5e48b
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	b12a3607c1cf6665bf3b529c6167ded0
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZpUHJNQkV0L1BXUFcxVjBhUnF4V285TG1TRkx6aEsxVUszSEtrVU9pMnlhLytoc3AyS0NlRmF4dE1kQ3Urd2MzdGhtS1pVRGIvOERGdy9ybnU3WVV5T2s0Sm5SOG5BaWJMLzl0SzRjbFM0bz0maGtJRHlXRlFsakV1eWJhU1B6YTArYTUwNmdvPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	caba1d75-4ada-4221-8fa7-8aa40f4e4b1c"
+
